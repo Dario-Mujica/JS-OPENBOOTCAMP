@@ -1,0 +1,13 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "primer test node/js",
+  "main": "ej1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hola": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo"
+
+  },
+  "author": "Dario Mujica",
+  "license": "ISC"
+}
