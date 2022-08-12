@@ -1,0 +1,20 @@
+{
+  "name": "js-openbootcamp",
+  "version": "1.0.0",
+  "description": "curso js/react openbootcamp",
+  "main": "ej2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hola": "holas desde un script de node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dario-Mujica/JS-OPENBOOTCAMP.git"
+  },
+  "author": "Dario Mujica",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dario-Mujica/JS-OPENBOOTCAMP/issues"
+  },
+  "homepage": "https://github.com/Dario-Mujica/JS-OPENBOOTCAMP#readme"
+}
